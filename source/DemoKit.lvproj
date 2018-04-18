@@ -194,6 +194,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="cRIO Main.vi" Type="VI" URL="../cRIO Main.vi"/>
 		<Item Name="cRIO Includes.vi" Type="VI" URL="../cRIO Includes.vi"/>
+		<Item Name="TestTemp Slider.vi" Type="VI" URL="../TestTemp Slider.vi"/>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
