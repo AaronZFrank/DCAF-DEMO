@@ -2,6 +2,50 @@
 <Project Type="Project" LVVersion="17008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="varPersistentID:{01FE247D-5A6D-4F52-8D64-AF8046F55E9D}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/AO0</Property>
+	<Property Name="varPersistentID:{0DAA0258-DBEF-4271-9F8D-6EC5FB3EDDB4}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO15</Property>
+	<Property Name="varPersistentID:{1245C50C-A773-41C7-B1E8-30C98F563D1E}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI9</Property>
+	<Property Name="varPersistentID:{13FF92CC-0C20-4C83-BE47-4B0AE45E4E26}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI15</Property>
+	<Property Name="varPersistentID:{17915702-2865-4A95-863F-576BDCAB6954}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/Feedback AO1</Property>
+	<Property Name="varPersistentID:{227687B3-96F8-4794-A553-3B1F7FAF8405}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI6</Property>
+	<Property Name="varPersistentID:{28F29BE2-82B1-45A2-99F2-C77B81A9033D}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO9</Property>
+	<Property Name="varPersistentID:{39EAFA1F-6BEB-499F-8822-A6E12FCF8154}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO2</Property>
+	<Property Name="varPersistentID:{3DEA9144-CEEB-429C-8AF6-1BA5D266DC97}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO7</Property>
+	<Property Name="varPersistentID:{3E0EBA29-6007-4FA9-ADDE-88F1873D247D}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI10</Property>
+	<Property Name="varPersistentID:{52C722E3-9931-4788-8A5D-AA22DDB13DD2}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI3</Property>
+	<Property Name="varPersistentID:{5A3FBDE6-772D-412F-A897-E394354AB093}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO10</Property>
+	<Property Name="varPersistentID:{5AFBB6B0-9733-4026-8CFA-D966A4E81084}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI11</Property>
+	<Property Name="varPersistentID:{5FE218D4-FA01-4D1B-9ABE-02A52D41F061}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO12</Property>
+	<Property Name="varPersistentID:{63964CC7-DE20-430E-9C28-EB6E798BA02B}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI0</Property>
+	<Property Name="varPersistentID:{65D5A3DE-7884-4D74-BB1D-2E425D149839}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/New Diagnosis Message</Property>
+	<Property Name="varPersistentID:{67185C03-CC21-414E-861C-FAC46C65CFD8}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/Feedback AO0</Property>
+	<Property Name="varPersistentID:{7A1E3B4A-6F20-4AEF-8713-51F555884D61}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI13</Property>
+	<Property Name="varPersistentID:{7BA6E79A-8843-4440-90FC-8498CE312E1E}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI12</Property>
+	<Property Name="varPersistentID:{8622395D-CE07-4576-9E02-19DC4ABB1E60}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO8</Property>
+	<Property Name="varPersistentID:{8BE00317-634E-4E69-AA46-29AF25250DEF}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI14</Property>
+	<Property Name="varPersistentID:{8D6DE4A2-D2A3-4092-8F67-E08A249206E9}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO3</Property>
+	<Property Name="varPersistentID:{923711DB-7C17-4671-9382-74EB5D289328}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI2</Property>
+	<Property Name="varPersistentID:{9CEA3F2A-81D3-42E9-9D13-0C29387F8160}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Localbus Add_Error Info</Property>
+	<Property Name="varPersistentID:{A5360050-8025-4485-AA6D-0CC38A47441A}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Localbus bus State</Property>
+	<Property Name="varPersistentID:{A66D93DD-0C19-42F5-AF48-690D87DA3072}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI1</Property>
+	<Property Name="varPersistentID:{A944F80C-DD30-43CA-8C77-01942C59BBDD}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI7</Property>
+	<Property Name="varPersistentID:{AA49BE89-F0C7-47D6-9865-5C54D6670AD5}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO6</Property>
+	<Property Name="varPersistentID:{B25EBD59-96E1-47AC-AC9A-EE5E3E82CC6E}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO13</Property>
+	<Property Name="varPersistentID:{BEB673CE-8DE8-4DC0-8F3A-5604DAED3404}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI4</Property>
+	<Property Name="varPersistentID:{C1FD0435-7F87-4D17-9BA1-A63AB7B9C4F9}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/AO3</Property>
+	<Property Name="varPersistentID:{C3B968FD-E434-46CF-AD9F-EB7B57613379}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/Feedback AO2</Property>
+	<Property Name="varPersistentID:{C5D669A1-CD64-43BE-B550-54EE6ABEE72B}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI8</Property>
+	<Property Name="varPersistentID:{D61C1F45-B7C7-45CE-83B9-C36E7BEA14F1}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/AO2</Property>
+	<Property Name="varPersistentID:{D9D782D5-2CF8-4264-9267-51123EDCEF20}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO5</Property>
+	<Property Name="varPersistentID:{DE418F96-0E46-49D6-B105-2F675D69E3D5}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO1</Property>
+	<Property Name="varPersistentID:{E9F00A29-1FC3-48E0-8F55-F272DF4D53F0}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO4</Property>
+	<Property Name="varPersistentID:{EDF60DCD-79F3-48A6-B38C-31A98614F40F}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod1/DI5</Property>
+	<Property Name="varPersistentID:{EE08820C-15D8-4113-A7E4-8E51EE7A7873}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO11</Property>
+	<Property Name="varPersistentID:{F3EA0CF7-8A65-4467-BD73-6D631677A2E1}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/AO1</Property>
+	<Property Name="varPersistentID:{F57CB689-71FB-4C94-8D52-0CE729A74A9A}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO14</Property>
+	<Property Name="varPersistentID:{FB501C12-F949-45A4-A7C9-C84077997D99}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod2/DO0</Property>
+	<Property Name="varPersistentID:{FD97470B-0E33-4C15-8769-6FCF6E31F9C7}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Mod3/Feedback AO3</Property>
+	<Property Name="varPersistentID:{FF8F9ACA-4339-4B45-BBAB-95C305BB00CB}" Type="Ref">/RT CompactRIO Target/EtherCAT Master/Device/Localbus Error_Code</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -57,18 +101,33 @@
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="IOV engine refnum from target address.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/ScanEngine/IOV engine refnum from target address.vi"/>
+				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
+				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="main engine.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/DCAF/Engines/Standard Engine/Execution Engine/main engine/main engine.lvlib"/>
 				<Item Name="ms timing source.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Module Timing Source/standard timing source/ms timing source.lvclass"/>
+				<Item Name="NI Skyline Configuration AMQP.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Skyline/Configuration/Configuration AMQP_class/NI Skyline Configuration AMQP.lvclass"/>
+				<Item Name="NI Skyline Configuration HTTP.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Skyline/Configuration/Configuration HTTP_class/NI Skyline Configuration HTTP.lvclass"/>
+				<Item Name="NI Skyline Configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Skyline/Configuration/Configuration_class/NI Skyline Configuration.lvclass"/>
+				<Item Name="NI Skyline Configuration.lvlib" Type="Library" URL="/&lt;vilib&gt;/Skyline/Configuration/HTTP/NI Skyline Configuration.lvlib"/>
+				<Item Name="NI Skyline JSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/Skyline/JSON/NI Skyline JSON.lvlib"/>
+				<Item Name="NI Skyline Tag AMQP.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Skyline/Tag/Wrapper/Wrapper AMQP_class/NI Skyline Tag AMQP.lvclass"/>
+				<Item Name="NI Skyline Tag HTTP.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Skyline/Tag/Wrapper/Wrapper HTTP_class/NI Skyline Tag HTTP.lvclass"/>
+				<Item Name="NI Skyline Tag HTTP.lvlib" Type="Library" URL="/&lt;vilib&gt;/Skyline/Tag/HTTP/NI Skyline Tag HTTP.lvlib"/>
+				<Item Name="NI Skyline Tag.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Skyline/Tag/Wrapper/Wrapper_class/NI Skyline Tag.lvclass"/>
+				<Item Name="NI Skyline Tag.lvlib" Type="Library" URL="/&lt;vilib&gt;/Skyline/Tag/Shared/NI Skyline Tag.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="NISE_CEF_serializable configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Configuration Framework/serializable configuration/NISE_CEF_serializable configuration.lvclass"/>
 				<Item Name="NISE_CEF_TreeSerializer.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Configuration Framework/tree serializer/NISE_CEF_TreeSerializer.lvlib"/>
 				<Item Name="NISE_error generator.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Configuration Framework/error generator/NISE_error generator.vi"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
+				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
 				<Item Name="PL_Serialization Interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/DCAF/Tag Editor Core/Framework Configuration Classes/flattened data interface/PL_Serialization Interface.lvlib"/>
 				<Item Name="PL_Target Configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Tag Editor Core/Framework Configuration Classes/target configuration/PL_Target Configuration.lvclass"/>
 				<Item Name="PL_Target Runtime.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Tag Editor Core/Framework Configuration Classes/target runtime/PL_Target Runtime.lvclass"/>
@@ -87,6 +146,8 @@
 				<Item Name="Standard Engine Configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Engines/Standard Engine/Execution Engine/Configuration/Standard Engine Configuration.lvclass"/>
 				<Item Name="Standard Engine Runtime.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Engines/Standard Engine/Execution Engine/Runtime/Standard Engine Runtime.lvclass"/>
 				<Item Name="Synchronize to Scan Engine.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/ScanEngine/Synchronize to Scan Engine.vi"/>
+				<Item Name="SystemLink configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Modules/SystemLink/module/configuration/SystemLink configuration.lvclass"/>
+				<Item Name="SystemLink runtime.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Modules/SystemLink/module/execution/SystemLink runtime.lvclass"/>
 				<Item Name="tag bus.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus/tag bus.lvlib"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="TBM channel.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Tag Bus Module Framework/channel/TBM channel.lvclass"/>
@@ -110,6 +171,9 @@
 			</Item>
 			<Item Name="Conversion configuration.lvclass" Type="LVClass" URL="../../Classes/Conversion/module/configuration/Conversion configuration.lvclass"/>
 			<Item Name="Conversion runtime.lvclass" Type="LVClass" URL="../../Classes/Conversion/module/execution/Conversion runtime.lvclass"/>
+			<Item Name="niskyline_tag.dll" Type="Document" URL="niskyline_tag.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -794,6 +858,7 @@ AddOutputFilter chunkFilter
 					<Item Name="vi.lib" Type="Folder">
 						<Item Name="NI_SoftMotion_MotorControlIP.lvlib" Type="Library" URL="/&lt;vilib&gt;/Motion/MotorControl/NI_SoftMotion_MotorControlIP.lvlib"/>
 						<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 					</Item>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
@@ -835,6 +900,893 @@ AddOutputFilter chunkFilter
 						<Property Name="TargetName" Type="Str">FPGA Target</Property>
 						<Property Name="TopLevelVI" Type="Ref">/RT CompactRIO Target/Chassis/FPGA Target/Strain Gauge Motion [FPGA Main].vi</Property>
 					</Item>
+				</Item>
+			</Item>
+		</Item>
+		<Item Name="EtherCAT Master" Type="ECATMaster">
+			<Property Name="ECAT.Adapter.Index" Type="UInt">0</Property>
+			<Property Name="ECAT.Master.Comments" Type="Str"></Property>
+			<Property Name="ECAT.Master.CyclicPercentage" Type="UInt">40</Property>
+			<Property Name="ECAT.Master.LRWEnabled" Type="Bool">true</Property>
+			<Property Name="ECAT.Master.UserShift" Type="Int">0</Property>
+			<Property Name="ECAT.Name" Type="Str">EtherCAT Master</Property>
+			<Item Name="Device" Type="ECATEnetSlave">
+				<Property Name="ECAT.Description" Type="Str">REM-11180, NI EtherCAT Fieldbus coupler</Property>
+				<Property Name="ECAT.Name" Type="Str">Device</Property>
+				<Property Name="ECAT.Slave.CoESupported" Type="Bool">true</Property>
+				<Property Name="ECAT.Slave.DCEnabled" Type="Bool">false</Property>
+				<Property Name="ECAT.Slave.DCSupported" Type="Bool">true</Property>
+				<Property Name="ECAT.Slave.E2PROMSize" Type="UInt">8192</Property>
+				<Property Name="ECAT.Slave.EoESupported" Type="Bool">false</Property>
+				<Property Name="ECAT.Slave.FmmuCount" Type="UInt">3</Property>
+				<Property Name="ECAT.Slave.FoESupported" Type="Bool">true</Property>
+				<Property Name="ECAT.Slave.InputCorrection" Type="Int">0</Property>
+				<Property Name="ECAT.Slave.InputSyncMode" Type="UInt">0</Property>
+				<Property Name="ECAT.Slave.IsComplex" Type="Bool">true</Property>
+				<Property Name="ECAT.Slave.IsWatchdogTimeoutByScan" Type="Bool">true</Property>
+				<Property Name="ECAT.Slave.MB.PollRateByScan" Type="UInt">1</Property>
+				<Property Name="ECAT.Slave.NodeAddress" Type="UInt">4096</Property>
+				<Property Name="ECAT.Slave.OutputCorrection" Type="Int">0</Property>
+				<Property Name="ECAT.Slave.OutputSyncMode" Type="UInt">0</Property>
+				<Property Name="ECAT.Slave.PDIWatchdogTimeoutByInc" Type="UInt">1000</Property>
+				<Property Name="ECAT.Slave.PDIWDEnabled" Type="Bool">false</Property>
+				<Property Name="ECAT.Slave.PDIWDTime" Type="UInt">10</Property>
+				<Property Name="ECAT.Slave.PositionAddress" Type="UInt">0</Property>
+				<Property Name="ECAT.Slave.ProductCode" Type="UInt">784741</Property>
+				<Property Name="ECAT.Slave.RevisionNo" Type="UInt">1</Property>
+				<Property Name="ECAT.Slave.SelectedPDOIndex" Type="Str">6911:</Property>
+				<Property Name="ECAT.Slave.SerialNo" Type="UInt">0</Property>
+				<Property Name="ECAT.Slave.SMCount" Type="UInt">4</Property>
+				<Property Name="ECAT.Slave.SMWatchdogTimeoutByInc" Type="UInt">1000</Property>
+				<Property Name="ECAT.Slave.SMWDEnabled" Type="Bool">true</Property>
+				<Property Name="ECAT.Slave.SMWDTime" Type="UInt">10</Property>
+				<Property Name="ECAT.Slave.Sync0CycleByScan" Type="UInt">1</Property>
+				<Property Name="ECAT.Slave.Sync0Enabled" Type="Bool">false</Property>
+				<Property Name="ECAT.Slave.Sync0Shift" Type="UInt">0</Property>
+				<Property Name="ECAT.Slave.Sync1CycleBySync0Cycle" Type="UInt">1</Property>
+				<Property Name="ECAT.Slave.Sync1Enabled" Type="Bool">false</Property>
+				<Property Name="ECAT.Slave.Sync1Shift" Type="UInt">0</Property>
+				<Property Name="ECAT.Slave.Type" Type="Str">REM-11180</Property>
+				<Property Name="ECAT.Slave.VendorID" Type="UInt">505</Property>
+				<Property Name="ECAT.Slave.VendorName" Type="Str">National Instruments Corporation</Property>
+				<Property Name="ECAT.Slave.WatchdogDivider" Type="UInt">2498</Property>
+				<Property Name="NI.SortType" Type="Int">1</Property>
+				<Item Name="Mod1" Type="ECATModule">
+					<Property Name="ECAT.Description" Type="Str">REM-11152, Digital input module, 16 inputs, 24 V DC, 2, 3 or 4-wire connection method</Property>
+					<Property Name="ECAT.Module.Address" Type="UInt">1</Property>
+					<Property Name="ECAT.Module.HasOD" Type="Bool">false</Property>
+					<Property Name="ECAT.Module.Identity" Type="UInt">131280</Property>
+					<Property Name="ECAT.Module.PDOGroup" Type="UInt">1</Property>
+					<Property Name="ECAT.Module.ProductCode" Type="UInt">131280</Property>
+					<Property Name="ECAT.Module.RevisionNo" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.SerialNo" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.Type" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.TypeName" Type="Str">REM-11152</Property>
+					<Property Name="ECAT.Module.VendorID" Type="UInt">505</Property>
+					<Property Name="ECAT.Name" Type="Str">Mod1</Property>
+					<Property Name="ECAT.Slave.SelectedPDOIndex" Type="Str">6656:</Property>
+					<Item Name="DI0" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">0</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI0</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI1" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">1</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI1</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI2" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">2</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI2</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI3" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">3</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI3</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI4" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">4</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI4</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI5" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">5</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI5</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI6" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">6</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI6</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI7" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">7</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI7</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI8" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">8</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI8</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI9" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">9</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI9</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI10" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">10</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI10</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI11" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">11</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI11</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI12" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">12</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI12</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI13" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">13</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI13</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI14" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">14</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI14</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DI15" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">15</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DI15</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+				</Item>
+				<Item Name="Mod2" Type="ECATModule">
+					<Property Name="ECAT.Description" Type="Str">REM-11175, Digital output module, 16 outputs, 24 V DC, 500 mA, 2-, 3-wire connection method</Property>
+					<Property Name="ECAT.Module.Address" Type="UInt">2</Property>
+					<Property Name="ECAT.Module.HasOD" Type="Bool">false</Property>
+					<Property Name="ECAT.Module.Identity" Type="UInt">131281</Property>
+					<Property Name="ECAT.Module.PDOGroup" Type="UInt">1</Property>
+					<Property Name="ECAT.Module.ProductCode" Type="UInt">131281</Property>
+					<Property Name="ECAT.Module.RevisionNo" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.SerialNo" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.Type" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.TypeName" Type="Str">REM-11175</Property>
+					<Property Name="ECAT.Module.VendorID" Type="UInt">505</Property>
+					<Property Name="ECAT.Name" Type="Str">Mod2</Property>
+					<Property Name="ECAT.Slave.SelectedPDOIndex" Type="Str">5632:</Property>
+					<Item Name="DO0" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">0</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO0</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO1" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">1</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO1</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO2" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">2</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO2</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO3" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">3</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO3</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO4" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">4</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO4</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO5" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">5</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO5</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO6" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">6</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO6</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO7" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">7</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO7</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO8" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">8</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO8</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO9" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">9</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO9</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO10" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">10</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO10</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO11" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">11</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO11</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO12" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">12</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO12</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO13" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">13</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO13</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO14" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">14</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO14</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="DO15" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">15</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">DO15</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;1!!!"=!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					</Item>
+				</Item>
+				<Item Name="Mod3" Type="ECATModule">
+					<Property Name="ECAT.Description" Type="Str">REM-11115, Analog output module, 4 outputs, 2-wire connection method</Property>
+					<Property Name="ECAT.Module.Address" Type="UInt">3</Property>
+					<Property Name="ECAT.Module.HasOD" Type="Bool">false</Property>
+					<Property Name="ECAT.Module.Identity" Type="UInt">524455</Property>
+					<Property Name="ECAT.Module.PDOGroup" Type="UInt">1</Property>
+					<Property Name="ECAT.Module.ProductCode" Type="UInt">524455</Property>
+					<Property Name="ECAT.Module.RevisionNo" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.SerialNo" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.Type" Type="UInt">0</Property>
+					<Property Name="ECAT.Module.TypeName" Type="Str">REM-11115</Property>
+					<Property Name="ECAT.Module.VendorID" Type="UInt">505</Property>
+					<Property Name="ECAT.Name" Type="Str">Mod3</Property>
+					<Property Name="ECAT.Slave.SelectedPDOIndex" Type="Str">6656:5632:</Property>
+					<Item Name="AO0" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">1</Property>
+						<Property Name="ECAT.Index" Type="UInt">0</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">AO0</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="AO1" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">1</Property>
+						<Property Name="ECAT.Index" Type="UInt">1</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">AO1</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="AO2" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">1</Property>
+						<Property Name="ECAT.Index" Type="UInt">2</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">AO2</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="AO3" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">1</Property>
+						<Property Name="ECAT.Index" Type="UInt">3</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">false</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">AO3</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="Feedback AO0" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">0</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">Feedback AO0</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="Feedback AO1" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">1</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">Feedback AO1</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="Feedback AO2" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">2</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">Feedback AO2</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+					<Item Name="Feedback AO3" Type="Variable">
+						<Property Name="_pdoIndex" Type="UInt">0</Property>
+						<Property Name="ECAT.Index" Type="UInt">3</Property>
+						<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+						<Property Name="featurePacks" Type="Str">Industrial</Property>
+						<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+						<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+						<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+						<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+						<Property Name="Industrial:Mode" Type="Str">1</Property>
+						<Property Name="Industrial:PhysicalName" Type="Str">Feedback AO3</Property>
+						<Property Name="Network:BuffSize" Type="Str">50</Property>
+						<Property Name="Network:UseBinding" Type="Str">False</Property>
+						<Property Name="Network:UseBuffering" Type="Str">True</Property>
+						<Property Name="numTypedefs" Type="UInt">0</Property>
+						<Property Name="type" Type="Str">Industrial</Property>
+						<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+					</Item>
+				</Item>
+				<Item Name="Localbus Add_Error Info" Type="Variable">
+					<Property Name="_pdoIndex" Type="UInt">0</Property>
+					<Property Name="ECAT.Index" Type="UInt">3</Property>
+					<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">Localbus Add_Error Info</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="Localbus bus State" Type="Variable">
+					<Property Name="_pdoIndex" Type="UInt">0</Property>
+					<Property Name="ECAT.Index" Type="UInt">1</Property>
+					<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">Localbus bus State</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="Localbus Error_Code" Type="Variable">
+					<Property Name="_pdoIndex" Type="UInt">0</Property>
+					<Property Name="ECAT.Index" Type="UInt">2</Property>
+					<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">Localbus Error_Code</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="New Diagnosis Message" Type="Variable">
+					<Property Name="_pdoIndex" Type="UInt">0</Property>
+					<Property Name="ECAT.Index" Type="UInt">0</Property>
+					<Property Name="ECAT.PDO.IsTxPDO" Type="Bool">true</Property>
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">New Diagnosis Message</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;Q!!!"=!A!!!!!!"!!5!"A!!!1!!!!!!!!!!</Property>
 				</Item>
 			</Item>
 		</Item>
@@ -1128,6 +2080,10 @@ AddOutputFilter chunkFilter
 				<Item Name="LVFixedPointRepRangeTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/LVFixedPointRepRangeTypeDef.ctl"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="Scan Engine runtime.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Modules/scan engine/execution/Scan Engine runtime.lvclass"/>
+				<Item Name="Scan Engine configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/DCAF/Modules/scan engine/configuration/Scan Engine configuration.lvclass"/>
+				<Item Name="Clear All Faults.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/faults/Clear All Faults.vi"/>
+				<Item Name="Refresh Modules.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/ScanEngine/Refresh Modules.vi"/>
 			</Item>
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -1138,6 +2094,7 @@ AddOutputFilter chunkFilter
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="9040DCAFDemo_FPGATarget_StrainGaugeMotio_nfadPIZd4mQ.lvbitx" Type="Document" URL="../FPGA Bitfiles/9040DCAFDemo_FPGATarget_StrainGaugeMotio_nfadPIZd4mQ.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
